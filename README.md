@@ -3,7 +3,6 @@
 **STATS C161 midterm project — historical Polymarket probability forecasts**  
 **Group members:** Brady Schenck, Rohan Koditala, Nason Tran, Emir Ramirez  
 **Presentation:** https://docs.google.com/presentation/d/1I2ewuvhwGk0XBp3n5hy3kx9H7amUIFWPvIy-GpWUH3U/edit?slide=id.hd903147d8fba7ac_0_0#slide=id.hd903147d8fba7ac_0_0  
-**Course snapshot:** 
 
 ## Research question
 
