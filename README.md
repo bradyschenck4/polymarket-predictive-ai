@@ -1,9 +1,9 @@
 # Can Machine Learning Beat the Market?
 
 **STATS C161 midterm project — historical Polymarket probability forecasts**  
-**Group members:** _Add all team members_  
-**Presentation:** _Add link to the Google Slides deck_  
-**Course snapshot:** May 30, 2026, at 2:00 p.m. Pacific (21:00 UTC)
+**Group members:** Brady Schenck, Rohan Koditala, Nason Tran, Emir Ramirez  
+**Presentation:** https://docs.google.com/presentation/d/1I2ewuvhwGk0XBp3n5hy3kx9H7amUIFWPvIy-GpWUH3U/edit?slide=id.hd903147d8fba7ac_0_0#slide=id.hd903147d8fba7ac_0_0  
+**Course snapshot:** 
 
 ## Research question
 
